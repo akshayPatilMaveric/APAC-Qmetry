@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="FeatureRunner" allow-return-values="true" parallel="none">
+    <test name="Feature1" enabled="true">
+        <classes>
+            <class name="Runner.TestRun">
+
+            </class>
+        </classes>
+    </test>
+</suite>
